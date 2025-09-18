@@ -1,13 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Ζόγκα;Ευαγγελία;;;
-FN:Ευαγγελία Ζόγκα
+N:Παπαδόπουλος;Σταύρος;;;
+FN:Σταύρος Παπαδόπουλος
 ORG:Software Solution P.C.
-TITLE:Business Consulting and Services
-TEL;TYPE=WORK,VOICE:+30 6937 464234
-EMAIL;TYPE=PREF,INTERNET:sales@sspc.gr
-URL:https://www.linkedin.com/in/evaggelia-zogka-403747176/
+TITLE:IT Project Manager
+TEL;TYPE=WORK,VOICE:+30 6973 308691
+EMAIL;TYPE=PREF,INTERNET:papadopoulos@sspc.gr
+URL:https://www.linkedin.com/in/stavros-papadopoulos-2446681a/
 ADR;TYPE=WORK:;;Leof. Mesogeion 196;Cholargos;;155 61;Greece
 END:VCARD
+
 
 
